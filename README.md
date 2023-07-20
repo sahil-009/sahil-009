@@ -1,7 +1,7 @@
 - 👋 Hi, I’m sahil mund
 - 👀 I’m interested in Devops
 - 🌱 I’m currently learning Backend
-- 💞️ I’m looking to collaborate on Devops and Backend Devlopment
+- 💞️ I’m looking to collaborate on Devops and Backend Development
 - 📫 How to reach me sahilmund.6685@gmail.com
 
 <!---
