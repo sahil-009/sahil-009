@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on:<br>A social media Application.<br><br>👯 I’m looking to collaborate on:<br>Fullstack projects.<br><br>🌱 I’m currently learning:<br>Devops and Backend java.<br><br>💬 Ask me about:<br>JavaScript, Java, Linux, Node.js, Bash, and any general software development questions.<br>
+🔭 I’m currently working on:<br>  A social media Application.<br><br>👯 I’m looking to collaborate on:<br>Fullstack projects.<br><br>🌱 I’m currently learning:<br>Devops and Backend java.<br><br>💬 Ask me about:<br>JavaScript, Java, Linux, Node.js, Bash, and any general software development questions.<br>
 
 
 ## 🌐 Socials:
