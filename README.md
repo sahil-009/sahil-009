@@ -16,6 +16,6 @@
 ![](https://github-contributor-stats.vercel.app/api?username=sahil-009&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
-### ![](https://visitcount.itsvg.in/api?id=sahil-009&icon=5&color=6)](https://visitcount.itsvg.in)
-[![](https://visitcount.itsvg.in/api?id=sahil&label=visitors&color=5&icon=0&pretty=true)]
+![](https://visitcount.itsvg.in/api?id=sahil-009&icon=5&color=6)
+![](https://visitcount.itsvg.in/api?id=sahil&label=visitors&color=5&icon=0&pretty=true)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
